@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/HenriqueBicudoPaulino/Python_CursoEmVideo?style=social)](https://github.com/HenriqueBicudoPaulino/Python_CursoEmVideo/network)
 [![GitHub issues](https://img.shields.io/github/issues/HenriqueBicudoPaulino/Python_CursoEmVideo)](https://github.com/HenriqueBicudoPaulino/Python_CursoEmVideo/issues)
 
-This repository contains solved exercises from the Python course by [Gustavo Guanabara](https://www.youtube.com/@CursoemVideo) on the [Curso em Vídeo](https://www.youtube.com/@CursoemVideo) YouTube channel. It is a hands-on collection intended to reinforce the concepts taught throughout the lessons.
+This repository contains solved exercises from the Python course by [Gustavo Guanabara](https://github.com/gustavoguanabara) on the [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo) YouTube channel. It is a hands-on collection intended to reinforce the concepts taught throughout the lessons.
 
 ---
 
